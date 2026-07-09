@@ -1,6 +1,8 @@
 <img width="1260" height="540" alt="Nadja Kelly 4s" src="https://github.com/user-attachments/assets/772ecea6-0e69-4a79-af74-9b354d2b64da" />
 
 <br>
+<br>
+<br>
 
 <div align="center">
 <img width="100" height="100" alt="cerejeira png-removebg-preview" src="https://github.com/user-attachments/assets/95382861-676c-4c5d-b410-28f84c8f9f6b" />
@@ -9,7 +11,6 @@
 <br>
 
 <div align="center">
-  
   <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
