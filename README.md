@@ -1,18 +1,10 @@
 
-
-
-https://github.com/user-attachments/assets/7f6736c9-0db7-4d9b-a310-5e7a5ede925c
-
-
+<img width="1260" height="540" alt="Nadja Kelly 4s" src="https://github.com/user-attachments/assets/bf465e89-943b-437b-a202-6431b78272fc" />
 
 <br>
 
 <div align="center">
-<img width="1
-
-https://github.com/user-attachments/assets/11a7f529-a684-4815-96da-57114e77df5d
-
-00" height="100" alt="cerejeira png-removebg-preview" src="https://github.com/user-attachments/assets/784effde-1653-4dd6-90df-a78dcfd76ec9" />
+<img width="100" height="100" alt="cerejeira png-removebg-preview" src="https://github.com/user-attachments/assets/95382861-676c-4c5d-b410-28f84c8f9f6b" />
 </div>
 
 <div align="center">
