@@ -6,10 +6,13 @@
 <img width="100" height="100" alt="cerejeira png-removebg-preview" src="https://github.com/user-attachments/assets/95382861-676c-4c5d-b410-28f84c8f9f6b" />
 </div>
 
+<br>
+
 <div align="center">
   
   <b>`プ ロ グ ラ マ`</b>
   <samp>
+      <br>
       <br>
       Hi there! I'm <b>Nadja Kelly</b>
   </samp>
