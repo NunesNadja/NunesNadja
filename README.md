@@ -1,5 +1,5 @@
+<img width="100%" height="350" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/143f707b-76c5-48c0-a85a-62a500ee304d" />
 
-<img width="1260" height="540" alt="Nadja Kelly 4s" src="https://github.com/user-attachments/assets/bf465e89-943b-437b-a202-6431b78272fc" />
 
 <br>
 
