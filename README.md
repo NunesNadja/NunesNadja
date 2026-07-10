@@ -24,3 +24,11 @@
   <img src="[https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FFAFE3&center=true&vCenter=true&width=435&lines=I'm+a+software+engineering+student!;I'm+from+Brazil!" alt="Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FFAFE3&center=true&vCenter=true&width=435&lines=I'm+a+software+engineering+student!;I'm+from+Brazil!)](https://git.io/typing-svg)"/>
 </div>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NunesNadja&theme=omni" width="100%" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NunesNadja&theme=omni" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NunesNadja&theme=omni" width="49%" />
+</p>
